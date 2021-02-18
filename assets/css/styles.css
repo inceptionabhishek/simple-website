@@ -1,0 +1,190 @@
+#parent {
+  height: 400;
+  height: 400px;
+  width: 5oopx;
+  width: 100%;
+  background-color: b;
+  background-color: blue;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+#parent {
+}
+
+#new-img {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px red solid;
+  margin-top: 0;
+  width: 100%;
+}
+
+@media (min-width: 300px) {
+  #image-overlay {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media (min-width: 992px) {
+  #heading-1 {
+    font-size: 50px;
+    margin-left: 80px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #heading-1 {
+    font-size: 50px;
+    margin-left: 8opx;
+  }
+}
+
+#new-para {
+  margin-left: 80px;
+  margin-top: 20px;
+}
+
+#first-button {
+  margin-left: 80px;
+}
+
+#img-whichisbelow {
+  margin-top: 200ox;
+  margin-top: 200px;
+}
+
+#intro-part {
+  height: 600px;
+  width: 100%;
+}
+
+#new-heading-below {
+  margin-left: 150px;
+  margin-top: 20px;
+}
+
+@media (min-width: 992px) {
+  #new-para-below {
+    margin-left: 150px;
+    margin-top: 20px;
+    padding: 4px;
+  }
+}
+
+#new-intro-hhd {
+  padding-top: 30px;
+}
+
+#new-heading-below {
+  margin: 0;
+}
+
+#new-heading-below {
+  margin-left: 50px;
+}
+
+@media (min-width: 300px) {
+  #intro-part {
+    display: block;
+  }
+}
+
+@media (min-width: 300px) {
+  #new-para-below {
+    margin-left: 0px;
+  }
+}
+
+#imgae-intro-dib {
+  height: 50px;
+}
+
+.new-main-para-block {
+  margin-left: 40px;
+}
+
+.new-main-para-block {
+  margin: 40px;
+  padding: 0;
+}
+
+#new-para-below {
+  margin-left: 30px;
+}
+
+#div-image-collection {
+  height: 1800px;
+  width: 100%;
+}
+
+#heading-image {
+  margin-left: 40px;
+}
+
+#div-1-for-image-4 {
+  height: 400px;
+  width: 100%;
+}
+
+.image-collect {
+  height: 300px;
+  padding: 30px;
+}
+
+#chang-imag1 {
+  width: 300px;
+}
+
+#imag-chang2 {
+  width: 300px;
+}
+
+.image-collect11 {
+  max-width: 280px;
+  height: 250px;
+}
+
+.image-collect12 {
+  width: 300px;
+  height: 270px;
+  padding: 10px;
+}
+
+div {
+}
+
+#new-div-for-net-heading {
+  height: 600px;
+}
+
+#for-newd {
+  margin-left: 30px;
+}
+
+#professional-image {
+  width: 150px;
+  height: 150px;
+}
+
+@media (min-width: 1200px) {
+  #new-professional-para {
+    margin-left: 30px;
+  }
+}
+
+.nds {
+  height: 300px;
+  width: 300px;
+}
+
+#new-div-for-next-things {
+  margin-top: 200px;
+  height: 300px;
+  width: 100%;
+  background-color: black;
+}
+
